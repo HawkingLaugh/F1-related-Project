@@ -26,6 +26,7 @@ def get_cham():
             champions.append(name.text)
     return champions
 
+#Find out the different both list and print out all F1 GP winners without Champion title
 def main(list1, list2):
     different_between_two = set(list1) ^ set(list2)
     print(different_between_two)
