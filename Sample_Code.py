@@ -11,7 +11,7 @@ def addup():
 
 def main():
     addup()
-    print("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut suscipit purus finibus, rhoncus arcu sed, efficitur eros. Vestibulum scelerisque")
+    print("ソフトウェア開発の定番ツールとなったGitHubは今や世界中の企業で採用されており、チームでプロジェクトを進めるさいには欠かせないものとなりました。")
 
 if __name__ == "__main__":
     main()
